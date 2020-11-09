@@ -16,7 +16,6 @@ public class LoginController {
         System.out.println("前往登录页面");
         System.out.println("1111");
         System.out.println("2222");
-        System.out.println("3333");
         return "front_login";
     }
 }
