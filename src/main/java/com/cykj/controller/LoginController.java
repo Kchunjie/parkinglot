@@ -11,6 +11,8 @@ public class LoginController {
     public String login()
     {
         System.out.println("前往登录页面");
+        System.out.println("登录");
+
         return "front_login";
     }
 }
